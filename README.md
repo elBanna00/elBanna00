@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moaaz</h1>
 
-<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="thumbnail" width="500"/>
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="thumbnail" width="800"/>
 <p align="left">
 </p>
 
