@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moaaz</h1>
-<h3 align="left">Connect with me:</h3>
+
+<img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="thumbnail"/>
 <p align="left">
 </p>
 
