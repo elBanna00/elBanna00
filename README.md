@@ -5,7 +5,7 @@
 </p>
 <h3 align="center">
 <a href="https://wterm-two.vercel.app/">Visit my personal homepage
-<img src="" alt="Visit homepage" align="center">
+<img src="https://github.com/elBanna00/elBanna00/blob/main/assets/site.gif?raw=true" alt="Visit homepage" align="center">
 </a>
 </h3>
 <h3 align="left">Languages and Tools:</h3>
