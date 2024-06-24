@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 <h3 align="center">
-<a href="https://wterm-two.vercel.app/">Visit my personal homepage
+<a href="https://wterm-two.vercel.app/">Visit my personal terminal-based Website
 <img src="https://github.com/elBanna00/elBanna00/blob/main/assets/site.gif?raw=true" alt="Visit homepage" align="center">
 </a>
 </h3>
